@@ -37,3 +37,6 @@ While the EC2 instance is running it is important not to forget to close your ey
 
 
 ![Screenshot 2023-08-15 210425](https://github.com/kevingonzalez7997/Deploy_1/assets/59447523/a4254e30-468e-44af-be62-f1d79e39c58c)
+
+
+![Deployment_1_Kevin_G](https://github.com/kevingonzalez7997/Deploy_1/assets/59447523/63c46025-d6f6-42df-aeb6-fa00f2554699)
