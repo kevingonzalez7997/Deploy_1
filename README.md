@@ -18,3 +18,5 @@ select az
 
 after selecting the instance and scaling the ec2 should be ready to launch !!
 
+
+![Screenshot 2023-08-15 210425](https://github.com/kevingonzalez7997/Deploy_1/assets/59447523/a4254e30-468e-44af-be62-f1d79e39c58c)
