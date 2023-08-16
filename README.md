@@ -1,19 +1,20 @@
-<p align="center">
-<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
-</p>
-<h1 align="center">C4_deployment-1<h1> 
+First make sure you get your token from GitHub from the repo that you have forked
 
-Demonstrate your ability to run a Jenkins build and manually deploy to Elastic Beanstalk.
+once you have the token you can go ahead and go to Jenkin and create a pipeline to deploy and test the application
 
-- Create a separate GitHub repository for this application 
+once I had it running I was able to go to AWS and create my own ec2 instance
 
-- Download the files from this repository and upload them to your newly created repository 
+I give it a name
 
-- Be sure to follow the deployment instructions from this Repository  
+pick my platform-python(3.9)
 
-- Document your progress in a .md file in your repository. Also, document any issues you may run into and what you did to fix them.
+upload my zipped file ( of my app) make sure you zip without the parent folder
 
-- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
+pick ElasticEC2 
 
-## Deployment instructions Link:
--  Link to instructions: https://github.com/kura-labs-org/c4_deployment-1/blob/main/Deployment-instructions.md
+pick default vpc
+
+select az
+
+after selecting the instance and scaling the ec2 should be ready to launch !!
+
