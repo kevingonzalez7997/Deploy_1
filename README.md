@@ -13,7 +13,7 @@ add AWSElasticBeanstalkWebTier,workerTier,MulticontainerDocker as the permission
 <br><br>
 This has to be done before you run it bc it will control who has access to what
 <h2>Jenkins</h2>
-login to jenkins
+login to Jenkins
 <br><br>
 Create a new item
 <br><br>
@@ -27,7 +27,7 @@ Give it a name
 <br><br>
 pick the platform (python 3.9)
 <br><br>
-upload zipped file (from new repo) make sure you zip without the parent folder!
+upload the zipped file (from the new repo) make sure you zip without the parent folder!
 <br><br>
 select ElasticEC2 
 <br><br>
@@ -41,6 +41,5 @@ While the EC2 instance is pending the running state, it is important not to forg
 
 
 ![Screenshot 2023-08-15 210425](https://github.com/kevingonzalez7997/Deploy_1/assets/59447523/a4254e30-468e-44af-be62-f1d79e39c58c)
-
-
+<br>
 ![Deployment_1_Kevin_G](https://github.com/kevingonzalez7997/Deploy_1/assets/59447523/63c46025-d6f6-42df-aeb6-fa00f2554699)
